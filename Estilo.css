@@ -1,0 +1,45 @@
+html, body{
+    margin: 0;
+}
+.menu-principal{
+    width: 100%;
+    background: url('capa.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: block;
+    margin: 0 auto;
+    text-align:center;
+    height: 100%; 
+}
+
+#titulo{
+    padding-top: 3%;
+    margin-bottom: 0;
+    font-family: 'La Belle Aurore', cursive;
+    font-size: 50px;
+}
+
+#subtitulo{
+    margin: 0;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+#logo{
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+.vocacao{
+    font-family: 'la belle aurore', cursive;
+    font-size: 30px;
+    background-size: 100%;
+    display: block;
+    margin: 0 auto;
+    text-align:center;
+    height: 100%;
+    padding: 20px 20px 20px 20px;
+}
+p{
+    
+}
